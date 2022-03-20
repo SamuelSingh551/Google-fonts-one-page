@@ -82,6 +82,14 @@ html {
     background: url("https://images.pexels.com/photos/99562/texture-handwriting-sutterlin-vintage-99562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
   }
 
+  .fifth-section-background {
+    background: url("https://images.pexels.com/photos/99562/texture-handwriting-sutterlin-vintage-99562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
+  }
+
+  .sixth-section-background {
+    background: url("https://images.pexels.com/photos/99562/texture-handwriting-sutterlin-vintage-99562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
+  }
+
   .with-background {
     background-size: cover;
     height: 100vh;
@@ -150,7 +158,15 @@ html {
   }
 
   .fourth-article-container {
-    background-color: #a69991;
+    background-color: #3d2b68;
+  }
+
+  .fifth-article-container {
+    background-color: #a72929;
+  }
+
+  .sixth-article-container {
+    background-color: #6055f3;
   }
   
   footer {
