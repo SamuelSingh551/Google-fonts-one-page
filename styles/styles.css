@@ -78,6 +78,10 @@ html {
     background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
   }
   
+  .fourth-section-background {
+    background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  }
+
   .with-background {
     background-size: cover;
     height: 100vh;
@@ -142,6 +146,10 @@ html {
   }
   
   .third-article-container {
+    background-color: #a69991;
+  }
+
+  .fourth-article-container {
     background-color: #a69991;
   }
   
