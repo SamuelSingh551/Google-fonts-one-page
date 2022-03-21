@@ -97,6 +97,7 @@ html {
     line-height: 65px;
     font-weight: 400;
     margin: 0;
+    color:1C0A00;
   }
   
   h2 {
@@ -138,7 +139,7 @@ html {
   
 
   .first-article-container {
-    background-color: #FAD9E6;
+    background-color: #C8F2EF;
   }
 
   .second-article-container {
@@ -146,12 +147,12 @@ html {
   }
 
   .third-article-container {
-    background-color: #FFF1CE;
+    background-color: #C3DBD9;
   }
   
   footer {
     text-align: center;
     padding: 20px 0;
-    background-color: rgb(0, 0, 0, 0.3);
+    background-color: #313552;
   }
   
